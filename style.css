@@ -1,0 +1,151 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    max-width: 1600px;
+    max-height: 4256px;
+}
+.header{
+    background-color: #FFF8F3;
+    background-image: url("/images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 230px 0px 226px;
+}
+.header-title{
+    color:#181818;
+    font-size: 45px;
+    font-weight: 800;
+}
+.header-title span{
+    color: #FD6E0A;
+}
+.nav-ul{
+    display: flex;
+    align-items: center;
+}
+.nav-ul li a{
+    text-decoration: none;
+    color:#474747;
+}
+.nav-ul li{
+    list-style: none;
+    padding: 30px 40px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.primary-btn{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 35px 19px 36px;
+}
+.banner{
+    display: flex;
+    padding: 50px 45px 0px 226px;
+    align-items: center;
+}
+.info h3{
+    color:#474747;
+    font-size: 45px;
+    font-weight: 600; 
+    margin: 0;
+}
+.info h1{
+    color:#181818;
+    font-size: 85px;
+    font-weight: 700;
+    margin: 0;
+}
+.info p{
+    color:#757575;
+    font-size: 18px;
+    font-weight: 400;
+}
+.hardy-img{
+    width: 584px;
+    height: 676px;
+    flex-shrink: 0;
+}
+.about{
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    text-align: center;
+    margin: 130px 230px 0px 226px;
+    padding: 130px 50px ;
+}
+.about h3{
+    color:#181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.about p{
+    color:#757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.about ul{
+    display: flex;
+    justify-content: space-around;
+}
+.about ul li{
+    list-style: none;
+}
+.about ul li p{
+    color:#757575;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+.about ul li h3{
+    color:#474747;
+    font-size: 20px;
+    font-weight: 700;
+}
+.whatIdo{
+    margin: 80px 300px;
+}
+.whatIdo h3{
+    color:#181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.whatIdo p{
+    color:#757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.skill{
+    margin: 130px 230px 0px 226px;
+    display: flex;
+}
+.skill-1{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    width: 267px;
+    height: 377px;
+    padding: 30px;
+}
+.skill-1 h3{
+    color:#181818;
+    font-size: 20px;
+    font-weight: 700;
+}
+.skill-1 p{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+}
