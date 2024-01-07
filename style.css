@@ -149,3 +149,83 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
+.resume h3{
+    color:#181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.summary{
+    display: flex;
+    padding-left: 230px;
+    justify-content: space-around;
+    padding-right: 230px;
+}
+.education{
+    margin-right: 70px;
+}
+.education h3{
+    color:#474747; 
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.experience h3{
+    color:#474747; 
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.resume-info{
+
+}
+.resume-info h3{
+    color:#474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume-info h4{
+    color:#757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.resume-info p{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn{
+    text-align: center;
+    margin: 50px 0px;
+}
+.footer{
+    padding: 50px 230px;
+    display: flex;
+}
+.left-side{
+    margin-right: 117px;
+}
+.left-side h3{
+    color:#181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.left-side p{
+    color:#474747;
+    font-size: 16px;
+    font-weight: 400;
+}
+.left-side .img{
+    margin-left: 24px;
+}
+.right-side h3{
+    color:#181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
